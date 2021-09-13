@@ -1,5 +1,5 @@
 # subdirectorio para cada capítulo
-CAPITULOS := capitulo_1 capitulo_2 
+CAPITULOS := capitulo_1 capitulo_2 capitulo_3 capitulo_4 capitulo_5
 
 # comandos que no representan ningún archivo
 .PHONY: all $(CAPITULOS) clean
